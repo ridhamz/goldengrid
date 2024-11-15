@@ -1,4 +1,4 @@
-<h1 align="center">🗄️ Distributed File System</h1>
+<h1 align="center">🗄️ GoldenGrid - Distributed File System</h1>
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Go-v1.18+-blue.svg" alt="Go Version"></a>
@@ -27,16 +27,16 @@
 
 ### Installation
 
-1. Clone the repository: git clone https://github.com/ridhamz/distributed-file-system.git
+1. Clone the repository: git clone https://github.com/ridhamz/goldengrid.git
 2. Change into the project directory: cd distributed-file-system
-3. Build the project: go build -o goldengrid ./cmd/distributed-file-system
-4. Run the GoldenGrid server: ./distributed-file-system server
-5. Use the GoldenGrid client to interact with the file system: ./distributed-file-system client put local-file.txt /remote/path.txt
+3. Build the project: go build -o goldengrid ./cmd/goldengrid
+4. Run the GoldenGrid server: ./goldengrid server
+5. Use the GoldenGrid client to interact with the file system: ./goldengrid client put local-file.txt /remote/path.txt
 ./goldengrid client get /remote/path.txt local-file.txt
 
 ## 📖 Documentation
 
-Explore the comprehensive documentation to learn more about distributed-file-system's features, configuration, and usage:
+Explore the comprehensive documentation to learn more about goldengrid's features, configuration, and usage:
 
 - [Architecture Overview](docs/architecture.md)
 - [Installation and Setup](docs/installation.md)
