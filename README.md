@@ -1,4 +1,4 @@
-<h1 align="center">🗄️ GoldenGrid - Distributed File System</h1>
+<h1 align="center">🗄️ Distributed File System</h1>
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Go-v1.18+-blue.svg" alt="Go Version"></a>
@@ -36,7 +36,7 @@
 
 ## 📖 Documentation
 
-Explore the comprehensive documentation to learn more about GoldenGrid's features, configuration, and usage:
+Explore the comprehensive documentation to learn more about distributed-file-system's features, configuration, and usage:
 
 - [Architecture Overview](docs/architecture.md)
 - [Installation and Setup](docs/installation.md)
