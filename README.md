@@ -1,4 +1,4 @@
-<h1 align="center">🗄️ GoldenGrid - Distributed File System</h1>
+<h1 align="center">🗄️ GoldenGrid - Distributed File Storage</h1>
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Go-v1.18+-blue.svg" alt="Go Version"></a>
